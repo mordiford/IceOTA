@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <oneplus3>
-            <Filename>aicp_oneplus3_n-12.1-mordiford-20170206_111102.zip</Filename>
+            <Filename>aicp_oneplus3_n-12.1-mordiford-20170207_081714.zip</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
