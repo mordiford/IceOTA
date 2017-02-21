@@ -12,5 +12,16 @@
                 title="README"
                 description="View README">https://github.com/mordiford/IceManifests/wiki</ReadmeUrl>
         </oneplus3>
+        <z2_plus>
+            <Filename>aicp_z2_plus_n-12.1-mordiford-20170217_155357.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download AICP-mordiford for ZUK Z2 / Lenovo Z2 Plus (z2_plus)">https://drive.google.com/drive/folders/0ByoQOmqDxjD7LXpVM3JmM1NSWEE</RomUrl>
+            <ReadmeUrl
+                id="readme"
+                title="README"
+                description="View README">https://github.com/mordiford/IceManifests/wiki</ReadmeUrl>
+        </z2_plus>
     </Stable>
 </SlimOTA>
