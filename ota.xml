@@ -10,10 +10,10 @@
             <ReadmeUrl
                 id="readme"
                 title="README"
-                description="View README">https://github.com/mordiford/IceManifests/wiki</ReadmeUrl>
+                description="mordiford/IceManifests wiki">https://github.com/mordiford/IceManifests/wiki</ReadmeUrl>
         </oneplus3>
         <z2_plus>
-            <Filename>aicp_z2_plus_n-12.1-mordiford-20170217_155357.zip</Filename>
+            <Filename>aicp_z2_plus_n-12.1-mordiford-20170225_114002.zip</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
@@ -21,7 +21,7 @@
             <ReadmeUrl
                 id="readme"
                 title="README"
-                description="View README">https://github.com/mordiford/IceManifests/wiki</ReadmeUrl>
+                description="mordiford/IceManifests wiki">https://github.com/mordiford/IceManifests/wiki</ReadmeUrl>
         </z2_plus>
     </Stable>
 </SlimOTA>
