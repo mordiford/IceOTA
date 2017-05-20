@@ -23,5 +23,16 @@
                 title="README"
                 description="mordiford/IceManifests wiki">https://github.com/mordiford/IceManifests/wiki</ReadmeUrl>
         </z2_plus>
+        <gemini>
+            <Filename>aicp_gemini_n-12.1-mordiford-20170515_161834.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download AICP-mordiford for Xiaomi Mi 5 (gemini)">https://drive.google.com/drive/folders/0ByoQOmqDxjD7cVEyVThjS3RrVzg</RomUrl>
+            <ReadmeUrl
+                id="readme"
+                title="README"
+                description="mordiford/IceManifests wiki">https://github.com/mordiford/IceManifests/wiki</ReadmeUrl>
+        </gemini>
     </Stable>
 </SlimOTA>
