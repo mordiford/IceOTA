@@ -12,6 +12,17 @@
                 title="README"
                 description="mordiford/IceManifests wiki">https://github.com/mordiford/IceManifests/wiki</ReadmeUrl>
         </oneplus3>
+        <apollo>
+            <Filename>aicp_apollo_n-12.1-mordiford-20170610_154233.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download AICP-mordiford for Kindle Fire HDX 8.9 (apollo)">https://drive.google.com/drive/folders/0ByoQOmqDxjD7elFDaEhMU2w2TnM</RomUrl>
+            <ReadmeUrl
+                id="readme"
+                title="README"
+                description="mordiford/IceManifests wiki">https://github.com/mordiford/IceManifests/wiki</ReadmeUrl>
+        </apollo>
         <z2_plus>
             <Filename>aicp_z2_plus_n-12.1-mordiford-20170305_132445.zip</Filename>
             <RomUrl
