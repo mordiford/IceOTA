@@ -78,5 +78,16 @@
                 title="README"
                 description="mordiford/IceManifests wiki">https://github.com/mordiford/IceManifests/wiki</ReadmeUrl>
         </hammerhead>
+        <helium>
+            <Filename>aicp_helium_n-12.1-mordiford-20170611_002816.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download AICP-mordiford for Xiaomi Mi Max Prime (helium)">https://drive.google.com/drive/folders/0ByoQOmqDxjD7dS1Rb0xHbF9Rems</RomUrl>
+            <ReadmeUrl
+                id="readme"
+                title="README"
+                description="mordiford/IceManifests wiki">https://github.com/mordiford/IceManifests/wiki</ReadmeUrl>
+        </helium>
     </Stable>
 </SlimOTA>
