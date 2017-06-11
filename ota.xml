@@ -45,5 +45,16 @@
                 title="README"
                 description="mordiford/IceManifests wiki">https://github.com/mordiford/IceManifests/wiki</ReadmeUrl>
         </gemini>
+        <hammerhead>
+            <Filename>aicp_hammerhead_n-12.1-mordiford-20170610_200722.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download AICP-mordiford for Nexus 5 (hammerhead)">https://drive.google.com/drive/folders/0ByoQOmqDxjD7WHk0b282QmczWGc</RomUrl>
+            <ReadmeUrl
+                id="readme"
+                title="README"
+                description="mordiford/IceManifests wiki">https://github.com/mordiford/IceManifests/wiki</ReadmeUrl>
+        </hammerhead>
     </Stable>
 </SlimOTA>
