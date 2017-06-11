@@ -45,6 +45,17 @@
                 title="README"
                 description="mordiford/IceManifests wiki">https://github.com/mordiford/IceManifests/wiki</ReadmeUrl>
         </gemini>
+        <capricorn>
+            <Filename>aicp_capricorn_n-12.1-mordiford-20170610_211517.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download AICP-mordiford for Xiaomi Mi 5s (capricorn)">https://drive.google.com/drive/folders/0ByoQOmqDxjD7d1I0cWswa1lMaTQ</RomUrl>
+            <ReadmeUrl
+                id="readme"
+                title="README"
+                description="mordiford/IceManifests wiki">https://github.com/mordiford/IceManifests/wiki</ReadmeUrl>
+        </capricorn>
         <hammerhead>
             <Filename>aicp_hammerhead_n-12.1-mordiford-20170610_200722.zip</Filename>
             <RomUrl
