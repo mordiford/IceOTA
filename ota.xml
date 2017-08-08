@@ -6,7 +6,11 @@
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Download AICP-mordiford for OnePlus 3 (oneplus3)">https://drive.google.com/drive/folders/0ByoQOmqDxjD7bXlOX0NSU1VaMVU</RomUrl>
+                description="Download latest AICP-mordiford for OnePlus 3 (oneplus3)">https://cloud.akane.blue/s/ouwYkNhn8HvOdoj</RomUrl>
+            <OldRomUrl
+                id="oldrom"
+                title="ROM (old)"
+                description="Download AICP-mordiford for OnePlus 3 (oneplus3)">https://drive.google.com/drive/folders/0ByoQOmqDxjD7bXlOX0NSU1VaMVU</OldRomUrl>
             <ReadmeUrl
                 id="readme"
                 title="README"
