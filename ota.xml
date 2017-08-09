@@ -28,11 +28,15 @@
                 description="mordiford/IceManifests wiki">https://github.com/mordiford/IceManifests/wiki</ReadmeUrl>
         </apollo>
         <z2_plus>
-            <Filename>aicp_z2_plus_n-12.1-mordiford-20170707_044318.zip</Filename>
+            <Filename>aicp_z2_plus_n-12.1-mordiford-20170809_103800.zip</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Download AICP-mordiford for ZUK Z2 / Lenovo Z2 Plus (z2_plus)">https://drive.google.com/drive/folders/0ByoQOmqDxjD7LXpVM3JmM1NSWEE</RomUrl>
+                description="Download latest AICP-mordiford for ZUK Z2 / Lenovo Z2 Plus (z2_plus)">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Fz2_plus</RomUrl>
+            <OldRomUrl
+                id="oldrom"
+                title="ROM (old)"                
+                description="Download AICP-mordiford for ZUK Z2 / Lenovo Z2 Plus (z2_plus)">https://drive.google.com/drive/folders/0ByoQOmqDxjD7LXpVM3JmM1NSWEE</OldRomUrl>
             <ReadmeUrl
                 id="readme"
                 title="README"
