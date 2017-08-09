@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <oneplus3>
-            <Filename>aicp_oneplus3_n-12.1-mordiford-20170707_013148.zip</Filename>
+            <Filename>aicp_oneplus3_n-12.1-mordiford-20170808_142016.zip</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Download latest AICP-mordiford for OnePlus 3 (oneplus3)">https://cloud.akane.blue/s/ouwYkNhn8HvOdoj</RomUrl>
+                description="Download latest AICP-mordiford for OnePlus 3 (oneplus3)">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Foneplus3</RomUrl>
             <OldRomUrl
                 id="oldrom"
                 title="ROM (old)"
