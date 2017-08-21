@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+<!--
+        <oneplus3>
+            <Filename></Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download latest AICP-mordiford for OnePlus 3 (oneplus3)">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Foneplus3</RomUrl>
+            <ReadmeUrl
+                id="readme"
+                title="README"
+                description="mordiford/IceManifests wiki">https://github.com/mordiford/IceManifests/wiki</ReadmeUrl>
+        </oneplus3>
+-->
+    </Stable>
+</SlimOTA>
