@@ -103,11 +103,15 @@
                 description="mordiford/IceManifests wiki">https://github.com/mordiford/IceManifests/wiki</ReadmeUrl>
         </nx512j>
         <hammerhead>
-            <Filename>aicp_hammerhead_n-12.1-mordiford-20170610_200722.zip</Filename>
+            <Filename>aicp_hammerhead_n-12.1-mordiford-20170922_222320.zip</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Download AICP-mordiford for Nexus 5 (hammerhead)">https://drive.google.com/drive/folders/0ByoQOmqDxjD7WHk0b282QmczWGc</RomUrl>
+                description="Download latest AICP-mordiford for Nexus 5 (hammerhead)">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Fhammerhead</RomUrl>
+            <OldRomUrl
+                id="oldrom"
+                title="ROM (old)"
+                description="Download AICP-mordiford for Nexus 5 (hammerhead)">https://drive.google.com/drive/folders/0ByoQOmqDxjD7WHk0b282QmczWGc</OldRomUrl>
             <ReadmeUrl
                 id="readme"
                 title="README"
