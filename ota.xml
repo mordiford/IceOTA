@@ -72,6 +72,17 @@
                 title="README"
                 description="mordiford/IceManifests wiki">https://github.com/mordiford/IceManifests/wiki</ReadmeUrl>
         </capricorn>
+        <x2>
+            <Filename>aicp_x2_n-12.1-mordiford-20170922_171343.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download latest AICP-mordiford for Leeco Le Max 2">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Fx2</RomUrl>
+            <ReadmeUrl
+                id="readme"
+                title="README"
+                description="mordiford/IceManifests wiki">https://github.com/mordiford/IceManifests/wiki</ReadmeUrl>
+        </x2>
         <nx512j>
             <Filename>aicp_nx512j_n-12.1-mordiford-20170707_075651.zip</Filename>
             <RomUrl
