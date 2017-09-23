@@ -84,11 +84,15 @@
                 description="mordiford/IceManifests wiki">https://github.com/mordiford/IceManifests/wiki</ReadmeUrl>
         </x2>
         <nx512j>
-            <Filename>aicp_nx512j_n-12.1-mordiford-20170707_075651.zip</Filename>
+            <Filename>aicp_nx512j_n-12.1-mordiford-20170922_185854.zip</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Download AICP-mordiford for Nubia Z9 Max (nx512j)">https://drive.google.com/drive/folders/0ByoQOmqDxjD7LXNsZzFrVUJOUFU</RomUrl>
+                description="Download latest AICP-mordiford for Nubia Z9 Max (nx512j)">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Fnx512j</RomUrl>
+            <OldRomUrl
+                id="oldrom"
+                title="ROM (old)"
+                description="Download AICP-mordiford for Nubia Z9 Max (nx512j)">https://drive.google.com/drive/folders/0ByoQOmqDxjD7LXNsZzFrVUJOUFU</OldRomUrl>
             <ReadmeUrl
                 id="readme"
                 title="README"
