@@ -128,5 +128,16 @@
                 title="README"
                 description="mordiford/IceManifests wiki">https://github.com/mordiford/IceManifests/wiki</ReadmeUrl>
         </helium>
+        <himawhl>
+            <Filename>aicp_himawhl_n-12.1-mordiford-20171009_073224.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download AICP-mordiford for HTC One M9 Sprint (himawhl)">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Fhimawhl</RomUrl>
+            <ReadmeUrl
+                id="readme"
+                title="README"
+                description="mordiford/IceManifests wiki">https://github.com/mordiford/IceManifests/wiki</ReadmeUrl>
+        </himawhl>
     </Stable>
 </SlimOTA>
