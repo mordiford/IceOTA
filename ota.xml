@@ -6,7 +6,7 @@
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Download latest AICP-mordiford for OnePlus 3 (oneplus3)">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Foneplus3</RomUrl>
+                description="Download latest AICP-mordiford for OnePlus 3 (oneplus3)">https://cloud.akane.blue/nextcloud/s/uQr48Usy2zY7SxF?path=%2Foneplus3</RomUrl>
             <OldRomUrl
                 id="oldrom"
                 title="ROM (old)"
@@ -21,7 +21,7 @@
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Download AICP-mordiford for Kindle Fire HDX 8.9 (apollo)">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Fapollo</RomUrl>
+                description="Download AICP-mordiford for Kindle Fire HDX 8.9 (apollo)">https://cloud.akane.blue/nextcloud/s/uQr48Usy2zY7SxF?path=%2Fapollo</RomUrl>
             <OldRomUrl
                 id="oldrom"
                 title="ROM (old)"
@@ -36,7 +36,7 @@
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Download latest AICP-mordiford for ZUK Z2 / Lenovo Z2 Plus (z2_plus)">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Fz2_plus</RomUrl>
+                description="Download latest AICP-mordiford for ZUK Z2 / Lenovo Z2 Plus (z2_plus)">https://cloud.akane.blue/nextcloud/s/uQr48Usy2zY7SxF?path=%2Fz2_plus</RomUrl>
             <OldRomUrl
                 id="oldrom"
                 title="ROM (old)"                
@@ -51,7 +51,7 @@
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Download latest AICP-mordiford for Xiaomi Mi 5 (gemini)">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Fgemini</RomUrl>
+                description="Download latest AICP-mordiford for Xiaomi Mi 5 (gemini)">https://cloud.akane.blue/nextcloud/s/uQr48Usy2zY7SxF?path=%2Fgemini</RomUrl>
             <OldRomUrl
                 id="oldrom"
                 title="ROM (old)"
@@ -66,7 +66,7 @@
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Download latest AICP-mordiford for Xiaomi Mi 5s (capricorn)">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Fcapricorn</RomUrl>
+                description="Download latest AICP-mordiford for Xiaomi Mi 5s (capricorn)">https://cloud.akane.blue/nextcloud/s/uQr48Usy2zY7SxF?path=%2Fcapricorn</RomUrl>
             <OldRomUrl
                 id="oldrom"
                 title="ROM (old)"
@@ -81,7 +81,7 @@
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Download latest AICP-mordiford for Leeco Le Max 2">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Fx2</RomUrl>
+                description="Download latest AICP-mordiford for Leeco Le Max 2">https://cloud.akane.blue/nextcloud/s/uQr48Usy2zY7SxF?path=%2Fx2</RomUrl>
             <ReadmeUrl
                 id="readme"
                 title="README"
@@ -92,7 +92,7 @@
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Download latest AICP-mordiford for Nubia Z9 Max (nx512j)">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Fnx512j</RomUrl>
+                description="Download latest AICP-mordiford for Nubia Z9 Max (nx512j)">https://cloud.akane.blue/nextcloud/s/uQr48Usy2zY7SxF?path=%2Fnx512j</RomUrl>
             <OldRomUrl
                 id="oldrom"
                 title="ROM (old)"
@@ -107,7 +107,7 @@
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Download latest AICP-mordiford for Nexus 5 (hammerhead)">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Fhammerhead</RomUrl>
+                description="Download latest AICP-mordiford for Nexus 5 (hammerhead)">https://cloud.akane.blue/nextcloud/s/uQr48Usy2zY7SxF?path=%2Fhammerhead</RomUrl>
             <OldRomUrl
                 id="oldrom"
                 title="ROM (old)"
@@ -133,7 +133,7 @@
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Download AICP-mordiford for HTC One M9 Sprint (himawhl)">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Fhimawhl</RomUrl>
+                description="Download AICP-mordiford for HTC One M9 Sprint (himawhl)">https://cloud.akane.blue/nextcloud/s/uQr48Usy2zY7SxF?path=%2Fhimawhl</RomUrl>
             <ReadmeUrl
                 id="readme"
                 title="README"
