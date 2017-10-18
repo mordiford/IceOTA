@@ -7,10 +7,6 @@
                 id="rom"
                 title="ROM"
                 description="Download latest AICP-mordiford for OnePlus 3 (oneplus3)">https://cloud.akane.blue/nextcloud/s/uQr48Usy2zY7SxF?path=%2Foneplus3</RomUrl>
-            <OldRomUrl
-                id="oldrom"
-                title="ROM (old)"
-                description="Download AICP-mordiford for OnePlus 3 (oneplus3)">https://drive.google.com/drive/folders/0ByoQOmqDxjD7bXlOX0NSU1VaMVU</OldRomUrl>
             <ReadmeUrl
                 id="readme"
                 title="README"
@@ -22,10 +18,6 @@
                 id="rom"
                 title="ROM"
                 description="Download AICP-mordiford for Kindle Fire HDX 8.9 (apollo)">https://cloud.akane.blue/nextcloud/s/uQr48Usy2zY7SxF?path=%2Fapollo</RomUrl>
-            <OldRomUrl
-                id="oldrom"
-                title="ROM (old)"
-                description="Download AICP-mordiford for Kindle Fire HDX 8.9 (apollo)">https://drive.google.com/drive/folders/0ByoQOmqDxjD7elFDaEhMU2w2TnM</OldRomUrl>
             <ReadmeUrl
                 id="readme"
                 title="README"
@@ -37,10 +29,6 @@
                 id="rom"
                 title="ROM"
                 description="Download latest AICP-mordiford for ZUK Z2 / Lenovo Z2 Plus (z2_plus)">https://cloud.akane.blue/nextcloud/s/uQr48Usy2zY7SxF?path=%2Fz2_plus</RomUrl>
-            <OldRomUrl
-                id="oldrom"
-                title="ROM (old)"                
-                description="Download AICP-mordiford for ZUK Z2 / Lenovo Z2 Plus (z2_plus)">https://drive.google.com/drive/folders/0ByoQOmqDxjD7LXpVM3JmM1NSWEE</OldRomUrl>
             <ReadmeUrl
                 id="readme"
                 title="README"
@@ -52,10 +40,6 @@
                 id="rom"
                 title="ROM"
                 description="Download latest AICP-mordiford for Xiaomi Mi 5 (gemini)">https://cloud.akane.blue/nextcloud/s/uQr48Usy2zY7SxF?path=%2Fgemini</RomUrl>
-            <OldRomUrl
-                id="oldrom"
-                title="ROM (old)"
-                description="Download AICP-mordiford for Xiaomi Mi 5 (gemini)">https://drive.google.com/drive/folders/0ByoQOmqDxjD7cVEyVThjS3RrVzg</OldRomUrl>
             <ReadmeUrl
                 id="readme"
                 title="README"
@@ -67,10 +51,6 @@
                 id="rom"
                 title="ROM"
                 description="Download latest AICP-mordiford for Xiaomi Mi 5s (capricorn)">https://cloud.akane.blue/nextcloud/s/uQr48Usy2zY7SxF?path=%2Fcapricorn</RomUrl>
-            <OldRomUrl
-                id="oldrom"
-                title="ROM (old)"
-                description="Download AICP-mordiford for Xiaomi Mi 5s (capricorn)">https://drive.google.com/drive/folders/0ByoQOmqDxjD7d1I0cWswa1lMaTQ</OldRomUrl>
             <ReadmeUrl
                 id="readme"
                 title="README"
@@ -93,10 +73,6 @@
                 id="rom"
                 title="ROM"
                 description="Download latest AICP-mordiford for Nubia Z9 Max (nx512j)">https://cloud.akane.blue/nextcloud/s/uQr48Usy2zY7SxF?path=%2Fnx512j</RomUrl>
-            <OldRomUrl
-                id="oldrom"
-                title="ROM (old)"
-                description="Download AICP-mordiford for Nubia Z9 Max (nx512j)">https://drive.google.com/drive/folders/0ByoQOmqDxjD7LXNsZzFrVUJOUFU</OldRomUrl>
             <ReadmeUrl
                 id="readme"
                 title="README"
@@ -108,10 +84,6 @@
                 id="rom"
                 title="ROM"
                 description="Download latest AICP-mordiford for Nexus 5 (hammerhead)">https://cloud.akane.blue/nextcloud/s/uQr48Usy2zY7SxF?path=%2Fhammerhead</RomUrl>
-            <OldRomUrl
-                id="oldrom"
-                title="ROM (old)"
-                description="Download AICP-mordiford for Nexus 5 (hammerhead)">https://drive.google.com/drive/folders/0ByoQOmqDxjD7WHk0b282QmczWGc</OldRomUrl>
             <ReadmeUrl
                 id="readme"
                 title="README"
