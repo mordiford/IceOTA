@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
-<!--
         <oneplus3>
-            <Filename></Filename>
+            <Filename>aicp_oneplus3_o-13.0-mordiford-20171130_085607.zip</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
@@ -13,6 +12,5 @@
                 title="README"
                 description="mordiford/IceManifests wiki">https://github.com/mordiford/IceManifests/wiki</ReadmeUrl>
         </oneplus3>
--->
     </Stable>
 </SlimOTA>
