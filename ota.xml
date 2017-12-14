@@ -27,7 +27,7 @@
             <Filename>aicp_z2_plus_n-12.1-mordiford-20171007_000109.zip</Filename>
             <RomUrl
                 id="rom"
-                title="ROM"
+                title="ROM for your device is outdated!"
                 description="Download latest AICP-mordiford for ZUK Z2 / Lenovo Z2 Plus (z2_plus)">https://cloud.akane.blue/nextcloud/s/PbGugWPefp9fFNZ?path=%2Fz2_plus</RomUrl>
             <ReadmeUrl
                 id="readme"
@@ -93,8 +93,8 @@
             <Filename>aicp_helium_n-12.1-mordiford-20170707_093557.zip</Filename>
             <RomUrl
                 id="rom"
-                title="ROM"
-                description="Download AICP-mordiford for Xiaomi Mi Max Prime (helium)">https://drive.google.com/drive/folders/0ByoQOmqDxjD7dS1Rb0xHbF9Rems</RomUrl>
+                title="ROM for your device is outdated!"
+                description="If you need update for Xiaomi Mi Max Prime (helium), please ask me">https://wiki.maud.io/aicp/nougat/downloads</RomUrl>
             <ReadmeUrl
                 id="readme"
                 title="README"
@@ -104,8 +104,8 @@
             <Filename>aicp_himawhl_n-12.1-mordiford-20171009_073224.zip</Filename>
             <RomUrl
                 id="rom"
-                title="ROM"
-                description="Download AICP-mordiford for HTC One M9 Sprint (himawhl)">https://cloud.akane.blue/nextcloud/s/PbGugWPefp9fFNZ?path=%2Fhimawhl</RomUrl>
+                title="ROM for your device is outdated!"
+                description="If you need update for HTC One M9 Sprint (himawhl), please ask me">https://cloud.akane.blue/nextcloud/s/PbGugWPefp9fFNZ?path=%2Fhimawhl</RomUrl>
             <ReadmeUrl
                 id="readme"
                 title="README"
