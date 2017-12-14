@@ -6,7 +6,7 @@ SlimOTA xmls for mordiford-ify AICP
 
 * https://github.com/mordiford/IceManifests でのサポート機種へOTAを配信するためのxmlをホストしています。
     + 永続的なURLから生のxmlを取得する必要があるので。
-    + https://raw.githubusercontent.com/mordiford/IceOTA/o8.0/ota.xml
+    + https://raw.githubusercontent.com/mordiford/IceOTA/o8.1/ota.xml
 * 登録は見ての通り手動でのcommitです。
 * `ota_conf` はバックアップ用です。
 
