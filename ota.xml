@@ -10,7 +10,7 @@
             <ReadmeUrl
                 id="readme"
                 title="README"
-                description="mordiford/IceManifests wiki">https://github.com/mordiford/IceManifests/wiki</ReadmeUrl>
+                description="AICP/nougat - mordiford Wiki">https://wiki.maud.io/aicp/nougat</ReadmeUrl>
         </oneplus3>
         <apollo>
             <Filename>aicp_apollo_n-12.1-mordiford-20171213_165908.zip</Filename>
@@ -21,7 +21,7 @@
             <ReadmeUrl
                 id="readme"
                 title="README"
-                description="mordiford/IceManifests wiki">https://github.com/mordiford/IceManifests/wiki</ReadmeUrl>
+                description="AICP/nougat - mordiford Wiki">https://wiki.maud.io/aicp/nougat</ReadmeUrl>
         </apollo>
         <z2_plus>
             <Filename>aicp_z2_plus_n-12.1-mordiford-20171007_000109.zip</Filename>
@@ -32,7 +32,7 @@
             <ReadmeUrl
                 id="readme"
                 title="README"
-                description="mordiford/IceManifests wiki">https://github.com/mordiford/IceManifests/wiki</ReadmeUrl>
+                description="AICP/nougat - mordiford Wiki">https://wiki.maud.io/aicp/nougat</ReadmeUrl>
         </z2_plus>
         <gemini>
             <Filename>aicp_gemini_n-12.1-mordiford-20171213_205231.zip</Filename>
@@ -43,7 +43,7 @@
             <ReadmeUrl
                 id="readme"
                 title="README"
-                description="mordiford/IceManifests wiki">https://github.com/mordiford/IceManifests/wiki</ReadmeUrl>
+                description="AICP/nougat - mordiford Wiki">https://wiki.maud.io/aicp/nougat</ReadmeUrl>
         </gemini>
         <capricorn>
             <Filename>aicp_capricorn_n-12.1-mordiford-20171214_034028.zip</Filename>
@@ -54,7 +54,7 @@
             <ReadmeUrl
                 id="readme"
                 title="README"
-                description="mordiford/IceManifests wiki">https://github.com/mordiford/IceManifests/wiki</ReadmeUrl>
+                description="AICP/nougat - mordiford Wiki">https://wiki.maud.io/aicp/nougat</ReadmeUrl>
         </capricorn>
         <x2>
             <Filename>aicp_x2_n-12.1-mordiford-20171213_231139.zip</Filename>
@@ -65,7 +65,7 @@
             <ReadmeUrl
                 id="readme"
                 title="README"
-                description="mordiford/IceManifests wiki">https://github.com/mordiford/IceManifests/wiki</ReadmeUrl>
+                description="AICP/nougat - mordiford Wiki">https://wiki.maud.io/aicp/nougat</ReadmeUrl>
         </x2>
         <nx512j>
             <Filename>aicp_nx512j_n-12.1-mordiford-20171214_012537.zip</Filename>
@@ -76,7 +76,7 @@
             <ReadmeUrl
                 id="readme"
                 title="README"
-                description="mordiford/IceManifests wiki">https://github.com/mordiford/IceManifests/wiki</ReadmeUrl>
+                description="AICP/nougat - mordiford Wiki">https://wiki.maud.io/aicp/nougat</ReadmeUrl>
         </nx512j>
         <hammerhead>
             <Filename>aicp_hammerhead_n-12.1-mordiford-20171007_084410.zip</Filename>
@@ -87,7 +87,7 @@
             <ReadmeUrl
                 id="readme"
                 title="README"
-                description="mordiford/IceManifests wiki">https://github.com/mordiford/IceManifests/wiki</ReadmeUrl>
+                description="AICP/nougat - mordiford Wiki">https://wiki.maud.io/aicp/nougat</ReadmeUrl>
         </hammerhead>
         <helium>
             <Filename>aicp_helium_n-12.1-mordiford-20170707_093557.zip</Filename>
@@ -98,7 +98,7 @@
             <ReadmeUrl
                 id="readme"
                 title="README"
-                description="mordiford/IceManifests wiki">https://github.com/mordiford/IceManifests/wiki</ReadmeUrl>
+                description="AICP/nougat - mordiford Wiki">https://wiki.maud.io/aicp/nougat</ReadmeUrl>
         </helium>
         <himawhl>
             <Filename>aicp_himawhl_n-12.1-mordiford-20171009_073224.zip</Filename>
@@ -109,7 +109,7 @@
             <ReadmeUrl
                 id="readme"
                 title="README"
-                description="mordiford/IceManifests wiki">https://github.com/mordiford/IceManifests/wiki</ReadmeUrl>
+                description="AICP/nougat - mordiford Wiki">https://wiki.maud.io/aicp/nougat</ReadmeUrl>
         </himawhl>
     </Stable>
 </SlimOTA>
