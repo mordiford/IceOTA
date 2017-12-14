@@ -10,7 +10,7 @@
             <ReadmeUrl
                 id="readme"
                 title="README"
-                description="mordiford/IceManifests wiki">https://github.com/mordiford/IceManifests/wiki</ReadmeUrl>
+                description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
         </oneplus3>
     </Stable>
 </SlimOTA>
