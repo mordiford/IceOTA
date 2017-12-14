@@ -14,8 +14,8 @@ SlimOTA xmls for mordiford-ify AICP
 
 * `packages_apps_SlimOTA`: クライアント部分です
     + https://github.com/mordiford/packages_apps_SlimOTA
-* IceManifest Wiki: サポート機種の一覧など
-    + https://github.com/mordiford/IceManifests/wiki
+* mordiford Wiki: サポート機種の一覧など
+    + https://wiki.maud.io/aicp/oreo
 
 ## License
 
