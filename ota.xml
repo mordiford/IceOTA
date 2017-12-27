@@ -101,11 +101,11 @@
                 description="AICP/nougat - mordiford Wiki">https://wiki.maud.io/aicp/nougat</ReadmeUrl>
         </helium>
         <himawhl>
-            <Filename>aicp_himawhl_n-12.1-mordiford-20171009_073224.zip</Filename>
+            <Filename>aicp_himawhl_n-12.1-mordiford-20171225_065512.zip</Filename>
             <RomUrl
                 id="rom"
-                title="ROM for your device is outdated!"
-                description="If you need update for HTC One M9 Sprint (himawhl), please ask me">https://cloud.akane.blue/nextcloud/s/PbGugWPefp9fFNZ?path=%2Fhimawhl</RomUrl>
+                title="ROM"
+                description="Download latest AICP-mordiford for HTC One M9 Sprint (himawhl)">https://cloud.akane.blue/nextcloud/s/PbGugWPefp9fFNZ?path=%2Fhimawhl</RomUrl>
             <ReadmeUrl
                 id="readme"
                 title="README"
