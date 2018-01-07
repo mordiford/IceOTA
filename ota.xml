@@ -12,5 +12,16 @@
                 title="README"
                 description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
         </oneplus3>
+        <potter>
+            <Filename>aicp_potter_o-13.1-mordiford-20180106_150910.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download latest AICP-mordiford for Moto G5 Plus (potter)">https://wiki.maud.io/aicp/oreo/downloads</RomUrl>
+            <ReadmeUrl
+                id="readme"
+                title="README"
+                description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
+        </potter>
     </Stable>
 </SlimOTA>
