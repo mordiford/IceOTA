@@ -17,11 +17,22 @@
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Download latest AICP-mordiford for Moto G5 Plus (potter)">https://wiki.maud.io/aicp/oreo/downloads</RomUrl>
+                description="Download latest AICP-mordiford for Moto G5 Plus (potter)">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Fpotter</RomUrl>
             <ReadmeUrl
                 id="readme"
                 title="README"
                 description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
         </potter>
+        <gts28vewifi>
+            <Filename>aicp_gts28vewifi_o-13.1-mordiford-20180222_165842.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download latest AICP-mordiford for Galaxy Tab S2 2016 Wi-Fi (gts28vewifi)">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Fgts28vewifi</RomUrl>
+            <ReadmeUrl
+                id="readme"
+                title="README"
+                description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
+        </gts28vewifi>
     </Stable>
 </SlimOTA>
