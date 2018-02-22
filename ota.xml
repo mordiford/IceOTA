@@ -2,18 +2,18 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <oneplus3>
-            <Filename>aicp_oneplus3_n-12.1-mordiford-20171213_184502.zip</Filename>
+            <Filename>aicp_oneplus3_o-13.1-mordiford-20180222_094129.zip</Filename>
             <RomUrl
                 id="rom"
-                title="ROM"
+                title="ROM (moved to Oreo)"
                 description="Download latest AICP-mordiford for OnePlus 3 (oneplus3)">https://cloud.akane.blue/nextcloud/s/PbGugWPefp9fFNZ?path=%2Foneplus3</RomUrl>
             <ReadmeUrl
                 id="readme"
                 title="README"
-                description="AICP/nougat - mordiford Wiki">https://wiki.maud.io/aicp/nougat</ReadmeUrl>
+                description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
         </oneplus3>
         <apollo>
-            <Filename>aicp_apollo_n-12.1-mordiford-20171213_165908.zip</Filename>
+            <Filename>aicp_apollo_n-12.1-mordiford-20180220_123730.zip</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
@@ -35,7 +35,7 @@
                 description="AICP/nougat - mordiford Wiki">https://wiki.maud.io/aicp/nougat</ReadmeUrl>
         </z2_plus>
         <gemini>
-            <Filename>aicp_gemini_n-12.1-mordiford-20171213_205231.zip</Filename>
+            <Filename>aicp_gemini_n-12.1-mordiford-20180118_111833.zip</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
@@ -46,7 +46,7 @@
                 description="AICP/nougat - mordiford Wiki">https://wiki.maud.io/aicp/nougat</ReadmeUrl>
         </gemini>
         <capricorn>
-            <Filename>aicp_capricorn_n-12.1-mordiford-20171214_034028.zip</Filename>
+            <Filename>aicp_capricorn_n-12.1-mordiford-20180118_135157.zip</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
@@ -57,7 +57,7 @@
                 description="AICP/nougat - mordiford Wiki">https://wiki.maud.io/aicp/nougat</ReadmeUrl>
         </capricorn>
         <x2>
-            <Filename>aicp_x2_n-12.1-mordiford-20171213_231139.zip</Filename>
+            <Filename>aicp_x2_n-12.1-mordiford-20180220_100040.zip</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
@@ -68,7 +68,7 @@
                 description="AICP/nougat - mordiford Wiki">https://wiki.maud.io/aicp/nougat</ReadmeUrl>
         </x2>
         <nx512j>
-            <Filename>aicp_nx512j_n-12.1-mordiford-20171225_061655.zip</Filename>
+            <Filename>aicp_nx512j_n-12.1-mordiford-20180220_110418.zip</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
@@ -79,7 +79,7 @@
                 description="AICP/nougat - mordiford Wiki">https://wiki.maud.io/aicp/nougat</ReadmeUrl>
         </nx512j>
         <hammerhead>
-            <Filename>aicp_hammerhead_n-12.1-mordiford-20171007_084410.zip</Filename>
+            <Filename>aicp_hammerhead_n-12.1-mordiford-20180220_120121.zip</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
@@ -101,7 +101,7 @@
                 description="AICP/nougat - mordiford Wiki">https://wiki.maud.io/aicp/nougat</ReadmeUrl>
         </helium>
         <himawhl>
-            <Filename>aicp_himawhl_n-12.1-mordiford-20171225_065512.zip</Filename>
+            <Filename>aicp_himawhl_n-12.1-mordiford-20180220_092420.zip</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
