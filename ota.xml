@@ -56,5 +56,16 @@
                 title="README"
                 description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
         </capricorn>
+        <z2_plus>
+            <Filename>aicp_z2_plus_o-13.1-mordiford-20180311_075235.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download latest AICP-mordiford for ZUK Z2 (z2_plus)">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Fz2_plus</RomUrl>
+            <ReadmeUrl
+                id="readme"
+                title="README"
+                description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
+        </z2_plus>
     </Stable>
 </SlimOTA>
