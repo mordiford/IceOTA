@@ -45,5 +45,16 @@
                 title="README"
                 description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
         </gemini>
+        <capricorn>
+            <Filename>aicp_capricorn_o-13.1-mordiford-20180311_054813.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download latest AICP-mordiford for Xiaomi Mi 5s (capricorn)">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Fcapricorn</RomUrl>
+            <ReadmeUrl
+                id="readme"
+                title="README"
+                description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
+        </capricorn>
     </Stable>
 </SlimOTA>
