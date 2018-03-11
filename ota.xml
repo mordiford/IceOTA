@@ -34,5 +34,16 @@
                 title="README"
                 description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
         </gts28vewifi>
+        <gemini>
+            <Filename>aicp_gemini_o-13.1-mordiford-20180311_065132.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download latest AICP-mordiford for Xiaomi Mi 5 (gemini)">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Fgemini</RomUrl>
+            <ReadmeUrl
+                id="readme"
+                title="README"
+                description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
+        </gemini>
     </Stable>
 </SlimOTA>
