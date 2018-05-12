@@ -89,5 +89,16 @@
                 title="README"
                 description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
         </dumpling>
+        <x2>
+            <Filename>aicp_x2_o-13.1-mordiford-20180512_000546.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download latest AICP-mordiford for LeEco Le Max 2 (x2)">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Fx2</RomUrl>
+            <ReadmeUrl
+                id="readme"
+                title="README"
+                description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
+        </x2>
     </Stable>
 </SlimOTA>
