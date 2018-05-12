@@ -1,115 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 <Stable>
-  <oneplus3>
-    <Filename>aicp_oneplus3_o-13.1-mordiford-20180511_213751.zip</Filename>
-    <RomUrl
-      id="rom"
-      title="ROM"
-      description="Download latest AICP-mordiford for OnePlus 3 (oneplus3)">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Foneplus3</RomUrl>
-    <ReadmeUrl
-      id="readme"
-      title="README"
-      description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
-  </oneplus3>
-  <potter>
-    <Filename>aicp_potter_o-13.1-mordiford-20180511_204304.zip</Filename>
-    <RomUrl
-      id="rom"
-      title="ROM"
-      description="Download latest AICP-mordiford for Moto G5 Plus (potter)">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Fpotter</RomUrl>
-    <ReadmeUrl
-      id="readme"
-      title="README"
-      description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
-  </potter>
-  <gts28vewifi>
-    <Filename>aicp_gts28vewifi_o-13.1-mordiford-20180511_134159.zip</Filename>
-    <RomUrl
-      id="rom"
-      title="ROM"
-      description="Download latest AICP-mordiford for Galaxy Tab S2 2016 Wi-Fi (gts28vewifi)">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Fgts28vewifi</RomUrl>
-    <ReadmeUrl
-      id="readme"
-      title="README"
-      description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
-  </gts28vewifi>
-  <gemini>
-    <Filename>aicp_gemini_o-13.1-mordiford-20180511_232332.zip</Filename>
-    <RomUrl
-      id="rom"
-      title="ROM"
-      description="Download latest AICP-mordiford for Xiaomi Mi 5 (gemini)">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Fgemini</RomUrl>
-    <ReadmeUrl
-      id="readme"
-      title="README"
-      description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
-  </gemini>
-  <capricorn>
-    <Filename>aicp_capricorn_o-13.1-mordiford-20180511_223847.zip</Filename>
-    <RomUrl
-      id="rom"
-      title="ROM"
-      description="Download latest AICP-mordiford for Xiaomi Mi 5s (capricorn)">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Fcapricorn</RomUrl>
-    <ReadmeUrl
-      id="readme"
-      title="README"
-      description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
-  </capricorn>
-  <z2_plus>
-    <Filename>aicp_z2_plus_o-13.1-mordiford-20180311_075235.zip</Filename>
-    <RomUrl
-      id="rom"
-      title="ROM"
-      description="Download latest AICP-mordiford for ZUK Z2 (z2_plus)">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Fz2_plus</RomUrl>
-    <ReadmeUrl
-      id="readme"
-      title="README"
-      description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
-  </z2_plus>
-  <cheeseburger>
-    <Filename>aicp_cheeseburger_o-13.1-mordiford-20180511_114252.zip</Filename>
-    <RomUrl
-      id="rom"
-      title="ROM"
-      description="Download latest AICP-mordiford for OnePlus 5 (cheeseburger)">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Fcheeseburger</RomUrl>
-    <ReadmeUrl
-      id="readme"
-      title="README"
-      description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
-  </cheeseburger>
-  <dumpling>
-    <Filename>aicp_dumpling_o-13.1-mordiford-20180511_123449.zip</Filename>
-    <RomUrl
-      id="rom"
-      title="ROM"
-      description="Download latest AICP-mordiford for OnePlus 5T (dumpling)">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Fdumpling</RomUrl>
-    <ReadmeUrl
-      id="readme"
-      title="README"
-      description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
-  </dumpling>
-  <x2>
-    <Filename>aicp_x2_o-13.1-mordiford-20180512_000546.zip</Filename>
-    <RomUrl
-      id="rom"
-      title="ROM"
-      description="Download latest AICP-mordiford for LeEco Le Max 2 (x2)">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Fx2</RomUrl>
-    <ReadmeUrl
-      id="readme"
-      title="README"
-      description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
-  </x2>
-  <nx512j>
-    <Filename>aicp_nx512j_o-13.1-mordiford-20180512_004501.zip</Filename>
-    <RomUrl
-      id="rom"
-      title="ROM"
-      description="Download latest AICP-mordiford for Nubia Z9 Max (nx512j)">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Fnx512j</RomUrl>
-    <ReadmeUrl
-      id="readme"
-      title="README"
-      description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
-  </nx512j>
+
+<oneplus3>
+<Filename>aicp_oneplus3_o-13.1-mordiford-20180511_213751.zip</Filename>
+<RomUrl
+    id="rom"
+    title="ROM"
+    description="Download latest AICP-mordiford for OnePlus 3 (oneplus3)">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Foneplus3</RomUrl>
+<ReadmeUrl
+    id="readme"
+    title="README"
+    description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
+</oneplus3>
+
+<potter>
+<Filename>aicp_potter_o-13.1-mordiford-20180511_204304.zip</Filename>
+<RomUrl
+    id="rom"
+    title="ROM"
+    description="Download latest AICP-mordiford for Moto G5 Plus (potter)">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Fpotter</RomUrl>
+<ReadmeUrl
+    id="readme"
+    title="README"
+    description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
+</potter>
+
+<gts28vewifi>
+<Filename>aicp_gts28vewifi_o-13.1-mordiford-20180511_134159.zip</Filename>
+<RomUrl
+    id="rom"
+    title="ROM"
+    description="Download latest AICP-mordiford for Galaxy Tab S2 2016 Wi-Fi (gts28vewifi)">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Fgts28vewifi</RomUrl>
+<ReadmeUrl
+    id="readme"
+    title="README"
+    description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
+</gts28vewifi>
+
+<gemini>
+<Filename>aicp_gemini_o-13.1-mordiford-20180511_232332.zip</Filename>
+<RomUrl
+    id="rom"
+    title="ROM"
+    description="Download latest AICP-mordiford for Xiaomi Mi 5 (gemini)">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Fgemini</RomUrl>
+<ReadmeUrl
+    id="readme"
+    title="README"
+    description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
+</gemini>
+
+<capricorn>
+<Filename>aicp_capricorn_o-13.1-mordiford-20180511_223847.zip</Filename>
+<RomUrl
+    id="rom"
+    title="ROM"
+    description="Download latest AICP-mordiford for Xiaomi Mi 5s (capricorn)">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Fcapricorn</RomUrl>
+<ReadmeUrl
+    id="readme"
+    title="README"
+    description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
+</capricorn>
+
+<z2_plus>
+<Filename>aicp_z2_plus_o-13.1-mordiford-20180311_075235.zip</Filename>
+<RomUrl
+    id="rom"
+    title="ROM"
+    description="Download latest AICP-mordiford for ZUK Z2 (z2_plus)">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Fz2_plus</RomUrl>
+<ReadmeUrl
+    id="readme"
+    title="README"
+    description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
+</z2_plus>
+
+<cheeseburger>
+<Filename>aicp_cheeseburger_o-13.1-mordiford-20180511_114252.zip</Filename>
+<RomUrl
+    id="rom"
+    title="ROM"
+    description="Download latest AICP-mordiford for OnePlus 5 (cheeseburger)">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Fcheeseburger</RomUrl>
+<ReadmeUrl
+    id="readme"
+    title="README"
+    description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
+</cheeseburger>
+
+<dumpling>
+<Filename>aicp_dumpling_o-13.1-mordiford-20180511_123449.zip</Filename>
+<RomUrl
+    id="rom"
+    title="ROM"
+    description="Download latest AICP-mordiford for OnePlus 5T (dumpling)">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Fdumpling</RomUrl>
+<ReadmeUrl
+    id="readme"
+    title="README"
+    description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
+</dumpling>
+
+<x2>
+<Filename>aicp_x2_o-13.1-mordiford-20180512_000546.zip</Filename>
+<RomUrl
+    id="rom"
+    title="ROM"
+    description="Download latest AICP-mordiford for LeEco Le Max 2 (x2)">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Fx2</RomUrl>
+<ReadmeUrl
+    id="readme"
+    title="README"
+    description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
+</x2>
+
+<nx512j>
+<Filename>aicp_nx512j_o-13.1-mordiford-20180512_004501.zip</Filename>
+<RomUrl
+    id="rom"
+    title="ROM"
+    description="Download latest AICP-mordiford for Nubia Z9 Max (nx512j)">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Fnx512j</RomUrl>
+<ReadmeUrl
+    id="readme"
+    title="README"
+    description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
+</nx512j>
+
 </Stable>
 </SlimOTA>
