@@ -78,5 +78,16 @@
                 title="README"
                 description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
         </cheeseburger>
+        <dumpling>
+            <Filename>aicp_dumpling_o-13.1-mordiford-20180511_123449.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download latest AICP-mordiford for OnePlus 5T (dumpling)">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Fdumpling</RomUrl>
+            <ReadmeUrl
+                id="readme"
+                title="README"
+                description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
+        </dumpling>
     </Stable>
 </SlimOTA>
