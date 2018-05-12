@@ -100,5 +100,16 @@
                 title="README"
                 description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
         </x2>
+        <nx512j>
+            <Filename>aicp_nx512j_o-13.1-mordiford-20180512_004501.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download latest AICP-mordiford for Nubia Z9 Max (nx512j)">https://cloud.akane.blue/s/uQr48Usy2zY7SxF?path=%2Fnx512j</RomUrl>
+            <ReadmeUrl
+                id="readme"
+                title="README"
+                description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
+        </nx512j>
     </Stable>
 </SlimOTA>
