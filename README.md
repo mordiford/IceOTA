@@ -1,10 +1,10 @@
 # IceOTA
 
-SlimOTA xmls for mordiford-ify AICP
+SlimOTA xmls for AICP-mordiford
 
 ## これは何
 
-* https://github.com/mordiford/IceManifests でのサポート機種へOTAを配信するためのxmlをホストしています。
+* AICP-mordiford のサポート機種へOTAを配信するためのxmlをホストしています。
     + 永続的なURLから生のxmlを取得する必要があるので。
     + https://raw.githubusercontent.com/mordiford/IceOTA/o8.1/ota.xml
 * 登録は見ての通り手動でのcommitです。
@@ -14,7 +14,7 @@ SlimOTA xmls for mordiford-ify AICP
 
 * `packages_apps_SlimOTA`: クライアント部分です
     + https://github.com/mordiford/packages_apps_SlimOTA
-* mordiford Wiki: サポート機種の一覧など
+* Wiki: サポート機種の一覧など
     + https://wiki.maud.io/aicp/oreo
 
 ## License
@@ -39,4 +39,6 @@ SlimOTA xmls for mordiford-ify AICP
 
 ## Author
 
-- @lindwurm
+* lindwurm
+    + GitHub: [@lindwurm](https://github.com/lindwurm)
+    + Mastodon: [hota@mstdn.maud.io](https://mstdn.maud.io/@hota)
