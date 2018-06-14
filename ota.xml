@@ -122,5 +122,17 @@
     description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
 </nx512j>
 
+<axon7>
+<Filename>aicp_axon7_o-13.1-mordiford-20180613_121308.zip</Filename>
+<RomUrl
+    id="rom"
+    title="ROM"
+    description="Download latest AICP-mordiford for ZTE Axon 7 (axon7)">https://cloud.akane.blue/nextcloud/s/PbGugWPefp9fFNZ?path=%2Faxon7</RomUrl>
+<ReadmeUrl
+    id="readme"
+    title="README"
+    description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
+</axon7>
+
 </Stable>
 </SlimOTA>
