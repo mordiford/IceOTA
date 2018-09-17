@@ -3,7 +3,7 @@
 <Stable>
 
 <oneplus3>
-<Filename>aicp_oneplus3_o-13.1-mordiford-20180813_162502.zip</Filename>
+<Filename>aicp_oneplus3_o-13.1-mordiford-20180910_111830.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
@@ -15,7 +15,7 @@
 </oneplus3>
 
 <potter>
-<Filename>aicp_potter_o-13.1-mordiford-20180813_150519.zip</Filename>
+<Filename>aicp_potter_o-13.1-mordiford-20180909_224114.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
@@ -39,7 +39,7 @@
 </gts28vewifi>
 
 <gemini>
-<Filename>aicp_gemini_o-13.1-mordiford-20180813_173319.zip</Filename>
+<Filename>aicp_gemini_o-13.1-mordiford-20180910_003727.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
@@ -51,7 +51,7 @@
 </gemini>
 
 <capricorn>
-<Filename>aicp_capricorn_o-13.1-mordiford-20180813_181905.zip</Filename>
+<Filename>aicp_capricorn_o-13.1-mordiford-20180910_012309.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
@@ -75,7 +75,7 @@
 </z2_plus>
 
 <cheeseburger>
-<Filename>aicp_cheeseburger_o-13.1-mordiford-20180812_212119.zip</Filename>
+<Filename>aicp_cheeseburger_o-13.1-mordiford-20180916_062150.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
@@ -87,7 +87,7 @@
 </cheeseburger>
 
 <dumpling>
-<Filename>aicp_dumpling_o-13.1-mordiford-20180813_053335.zip</Filename>
+<Filename>aicp_dumpling_o-13.1-mordiford-20180910_065435.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
@@ -111,7 +111,7 @@
 </x2>
 
 <nx512j>
-<Filename>aicp_nx512j_o-13.1-mordiford-20180813_203900.zip</Filename>
+<Filename>aicp_nx512j_o-13.1-mordiford-20180910_091101.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
@@ -135,7 +135,7 @@
 </axon7>
 
 <hammerhead>
-<Filename>aicp_hammerhead_o-13.1-mordiford-20180813_214149.zip</Filename>
+<Filename>aicp_hammerhead_o-13.1-mordiford-20180910_101208.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
@@ -145,6 +145,90 @@
     title="README"
     description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
 </hammerhead>
+
+<angler>
+<Filename>aicp_angler_o-13.1-mordiford-20180910_024544.zip</Filename>
+<RomUrl
+    id="rom"
+    title="ROM"
+    description="Download latest AICP-mordiford for Nexus 6P (angler)">https://cloud.akane.blue/nextcloud/s/PbGugWPefp9fFNZ?path=%2Fanglar</RomUrl>
+<ReadmeUrl
+    id="readme"
+    title="README"
+    description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
+</angler>
+
+<bullhead>
+<Filename>aicp_bullhead_o-13.1-mordiford-20180910_034320.zip</Filename>
+<RomUrl
+    id="rom"
+    title="ROM"
+    description="Download latest AICP-mordiford for Nexus 5X (bullhead)">https://cloud.akane.blue/nextcloud/s/PbGugWPefp9fFNZ?path=%2Fbullhead</RomUrl>
+<ReadmeUrl
+    id="readme"
+    title="README"
+    description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
+</bullhead>
+
+<ether>
+<Filename>aicp_ether_o-13.1-mordiford-20180910_042902.zip</Filename>
+<RomUrl
+    id="rom"
+    title="ROM"
+    description="Download latest AICP-mordiford for Nextbit Robin (ether)">https://cloud.akane.blue/nextcloud/s/PbGugWPefp9fFNZ?path=%2Fether</RomUrl>
+<ReadmeUrl
+    id="readme"
+    title="README"
+    description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
+</ether>
+
+<flo>
+<Filename>aicp_flo_o-13.1-mordiford-20180910_051431.zip</Filename>
+<RomUrl
+    id="rom"
+    title="ROM"
+    description="Download latest AICP-mordiford for Nexus 7 2013 Wifi (flo)">https://cloud.akane.blue/nextcloud/s/PbGugWPefp9fFNZ?path=%2Fflo</RomUrl>
+<ReadmeUrl
+    id="readme"
+    title="README"
+    description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
+</flo>
+
+<oneplus2>
+<Filename>aicp_oneplus2_o-13.1-mordiford-20180910_060636.zip</Filename>
+<RomUrl
+    id="rom"
+    title="ROM"
+    description="Download latest AICP-mordiford for OnePlus 2 (oneplus2)">https://cloud.akane.blue/nextcloud/s/PbGugWPefp9fFNZ?path=%2Foneplus2</RomUrl>
+<ReadmeUrl
+    id="readme"
+    title="README"
+    description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
+</oneplus2>
+
+<sagit>
+<Filename>aicp_sagit_o-13.1-mordiford-20180910_122357.zip</Filename>
+<RomUrl
+    id="rom"
+    title="ROM"
+    description="Download latest AICP-mordiford for Xiaomi Mi 6 (sagit)">https://cloud.akane.blue/nextcloud/s/PbGugWPefp9fFNZ?path=%2Fsagit</RomUrl>
+<ReadmeUrl
+    id="readme"
+    title="README"
+    description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
+</sagit>
+
+<chiron>
+<Filename>aicp_chiron_o-13.1-mordiford-20180910_133827.zip</Filename>
+<RomUrl
+    id="rom"
+    title="ROM"
+    description="Download latest AICP-mordiford for Xiaomi Mi Mix 2 (chiron)">https://cloud.akane.blue/nextcloud/s/PbGugWPefp9fFNZ?path=%2Fchiron</RomUrl>
+<ReadmeUrl
+    id="readme"
+    title="README"
+    description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
+</chiron>
 
 </Stable>
 </SlimOTA>
