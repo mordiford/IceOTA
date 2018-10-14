@@ -3,7 +3,7 @@
 <Stable>
 
 <oneplus3>
-<Filename>aicp_oneplus3_o-13.1-mordiford-20180910_111830.zip</Filename>
+<Filename>aicp_oneplus3_o-13.1-mordiford-20181013_192749.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
@@ -39,7 +39,7 @@
 </gts28vewifi>
 
 <gemini>
-<Filename>aicp_gemini_o-13.1-mordiford-20180910_003727.zip</Filename>
+<Filename>aicp_gemini_o-13.1-mordiford-20181013_174730.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
@@ -51,7 +51,7 @@
 </gemini>
 
 <capricorn>
-<Filename>aicp_capricorn_o-13.1-mordiford-20180910_012309.zip</Filename>
+<Filename>aicp_capricorn_o-13.1-mordiford-20181013_142541.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
@@ -75,7 +75,7 @@
 </z2_plus>
 
 <cheeseburger>
-<Filename>aicp_cheeseburger_o-13.1-mordiford-20180916_062150.zip</Filename>
+<Filename>aicp_cheeseburger_o-13.1-mordiford-20181013_114752.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
@@ -87,7 +87,7 @@
 </cheeseburger>
 
 <dumpling>
-<Filename>aicp_dumpling_o-13.1-mordiford-20180910_065435.zip</Filename>
+<Filename>aicp_dumpling_o-13.1-mordiford-20181013_160530.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
@@ -99,7 +99,7 @@
 </dumpling>
 
 <x2>
-<Filename>aicp_x2_o-13.1-mordiford-20180813_195800.zip</Filename>
+<Filename>aicp_x2_o-13.1-mordiford-20181013_211234.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
@@ -123,7 +123,7 @@
 </nx512j>
 
 <axon7>
-<Filename>aicp_axon7_o-13.1-mordiford-20180613_121308.zip</Filename>
+<Filename>aicp_axon7_o-13.1-mordiford-20181013_124127.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
@@ -135,7 +135,7 @@
 </axon7>
 
 <hammerhead>
-<Filename>aicp_hammerhead_o-13.1-mordiford-20180910_101208.zip</Filename>
+<Filename>aicp_hammerhead_o-13.1-mordiford-20181013_184821.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
@@ -171,7 +171,7 @@
 </bullhead>
 
 <ether>
-<Filename>aicp_ether_o-13.1-mordiford-20180910_042902.zip</Filename>
+<Filename>aicp_ether_o-13.1-mordiford-20181013_165215.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
@@ -207,7 +207,7 @@
 </oneplus2>
 
 <sagit>
-<Filename>aicp_sagit_o-13.1-mordiford-20180910_122357.zip</Filename>
+<Filename>aicp_sagit_o-13.1-mordiford-20181013_200900.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
@@ -219,7 +219,7 @@
 </sagit>
 
 <chiron>
-<Filename>aicp_chiron_o-13.1-mordiford-20180910_133827.zip</Filename>
+<Filename>aicp_chiron_o-13.1-mordiford-20181013_150935.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
@@ -229,6 +229,30 @@
     title="README"
     description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
 </chiron>
+
+<pme>
+<Filename>aicp_pme_o-13.1-mordiford-20181013_133200.zip</Filename>
+<RomUrl
+    id="rom"
+    title="ROM"
+    description="Download latest AICP-mordiford for HTC 10 (pme)">https://cloud.akane.blue/nextcloud/s/PbGugWPefp9fFNZ?path=%2Fpme</RomUrl>
+<ReadmeUrl
+    id="readme"
+    title="README"
+    description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
+</pme>
+
+<bacon>
+<Filename>aicp_bacon_o-13.1-mordiford-20181013_134610.zip</Filename>
+<RomUrl
+    id="rom"
+    title="ROM"
+    description="Download latest AICP-mordiford for OnePlus One (bacon)">https://cloud.akane.blue/nextcloud/s/PbGugWPefp9fFNZ?path=%2Fbacon</RomUrl>
+<ReadmeUrl
+    id="readme"
+    title="README"
+    description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
+</bacon>
 
 </Stable>
 </SlimOTA>
