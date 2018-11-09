@@ -3,7 +3,7 @@
 <Stable>
 
 <oneplus3>
-<Filename>aicp_oneplus3_o-13.1-mordiford-20181013_192749.zip</Filename>
+<Filename>aicp_oneplus3_o-13.1-mordiford-20181107_102302.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
@@ -39,7 +39,7 @@
 </gts28vewifi>
 
 <gemini>
-<Filename>aicp_gemini_o-13.1-mordiford-20181013_174730.zip</Filename>
+<Filename>aicp_gemini_o-13.1-mordiford-20181107_090046.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
@@ -51,7 +51,7 @@
 </gemini>
 
 <capricorn>
-<Filename>aicp_capricorn_o-13.1-mordiford-20181013_142541.zip</Filename>
+<Filename>aicp_capricorn_o-13.1-mordiford-20181107_071823.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
@@ -75,7 +75,7 @@
 </z2_plus>
 
 <cheeseburger>
-<Filename>aicp_cheeseburger_o-13.1-mordiford-20181013_114752.zip</Filename>
+<Filename>aicp_cheeseburger_o-13.1-mordiford-20181107_011920.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
@@ -87,7 +87,7 @@
 </cheeseburger>
 
 <dumpling>
-<Filename>aicp_dumpling_o-13.1-mordiford-20181013_160530.zip</Filename>
+<Filename>aicp_dumpling_o-13.1-mordiford-20181107_045827.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
@@ -99,7 +99,7 @@
 </dumpling>
 
 <x2>
-<Filename>aicp_x2_o-13.1-mordiford-20181013_211234.zip</Filename>
+<Filename>aicp_x2_o-13.1-mordiford-20181107_110549.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
@@ -123,7 +123,7 @@
 </nx512j>
 
 <axon7>
-<Filename>aicp_axon7_o-13.1-mordiford-20181013_124127.zip</Filename>
+<Filename>aicp_axon7_o-13.1-mordiford-20181107_054154.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
@@ -135,7 +135,7 @@
 </axon7>
 
 <hammerhead>
-<Filename>aicp_hammerhead_o-13.1-mordiford-20181013_184821.zip</Filename>
+<Filename>aicp_hammerhead_o-13.1-mordiford-20181107_094703.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
@@ -171,7 +171,7 @@
 </bullhead>
 
 <ether>
-<Filename>aicp_ether_o-13.1-mordiford-20181013_165215.zip</Filename>
+<Filename>aicp_ether_o-13.1-mordiford-20181107_080301.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
@@ -243,7 +243,7 @@
 </pme>
 
 <bacon>
-<Filename>aicp_bacon_o-13.1-mordiford-20181013_134610.zip</Filename>
+<Filename>aicp_bacon_o-13.1-mordiford-20181107_063714.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
