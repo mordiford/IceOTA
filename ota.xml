@@ -3,7 +3,7 @@
 <Stable>
 
 <oneplus3>
-<Filename>aicp_oneplus3_o-13.1-mordiford-20181107_102302.zip</Filename>
+<Filename>aicp_oneplus3_o-13.1-mordiford-20181205_095106.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
@@ -15,7 +15,7 @@
 </oneplus3>
 
 <potter>
-<Filename>aicp_potter_o-13.1-mordiford-20180909_224114.zip</Filename>
+<Filename>aicp_potter_o-13.1-mordiford-20181205_104303.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
@@ -27,7 +27,7 @@
 </potter>
 
 <gts28vewifi>
-<Filename>aicp_gts28vewifi_o-13.1-mordiford-20180813_142108.zip</Filename>
+<Filename>aicp_gts28vewifi_o-13.1-mordiford-20181205_072348.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
@@ -39,7 +39,7 @@
 </gts28vewifi>
 
 <gemini>
-<Filename>aicp_gemini_o-13.1-mordiford-20181107_090046.zip</Filename>
+<Filename>aicp_gemini_o-13.1-mordiford-20181205_063833.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
@@ -51,7 +51,7 @@
 </gemini>
 
 <capricorn>
-<Filename>aicp_capricorn_o-13.1-mordiford-20181107_071823.zip</Filename>
+<Filename>aicp_capricorn_o-13.1-mordiford-20181205_050242.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
@@ -75,7 +75,7 @@
 </z2_plus>
 
 <cheeseburger>
-<Filename>aicp_cheeseburger_o-13.1-mordiford-20181107_011920.zip</Filename>
+<Filename>aicp_cheeseburger_o-13.1-mordiford-20181210_040035.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
@@ -87,7 +87,7 @@
 </cheeseburger>
 
 <dumpling>
-<Filename>aicp_dumpling_o-13.1-mordiford-20181107_045827.zip</Filename>
+<Filename>aicp_dumpling_o-13.1-mordiford-20181206_031842.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
@@ -99,7 +99,7 @@
 </dumpling>
 
 <x2>
-<Filename>aicp_x2_o-13.1-mordiford-20181107_110549.zip</Filename>
+<Filename>aicp_x2_o-13.1-mordiford-20181205_113209.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
@@ -111,7 +111,7 @@
 </x2>
 
 <nx512j>
-<Filename>aicp_nx512j_o-13.1-mordiford-20181110_083438.zip</Filename>
+<Filename>aicp_nx512j_o-13.1-mordiford-20181205_090443.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
@@ -123,7 +123,7 @@
 </nx512j>
 
 <axon7>
-<Filename>aicp_axon7_o-13.1-mordiford-20181107_054154.zip</Filename>
+<Filename>aicp_axon7_o-13.1-mordiford-20181205_014407.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
@@ -135,7 +135,7 @@
 </axon7>
 
 <hammerhead>
-<Filename>aicp_hammerhead_o-13.1-mordiford-20181107_094703.zip</Filename>
+<Filename>aicp_hammerhead_o-13.1-mordiford-20181205_082424.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
@@ -147,7 +147,7 @@
 </hammerhead>
 
 <angler>
-<Filename>aicp_angler_o-13.1-mordiford-20180910_024544.zip</Filename>
+<Filename>aicp_angler_o-13.1-mordiford-20181205_024104.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
@@ -159,7 +159,7 @@
 </angler>
 
 <bullhead>
-<Filename>aicp_bullhead_o-13.1-mordiford-20180910_034320.zip</Filename>
+<Filename>aicp_bullhead_o-13.1-mordiford-20181205_042448.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
@@ -171,7 +171,7 @@
 </bullhead>
 
 <ether>
-<Filename>aicp_ether_o-13.1-mordiford-20181107_080301.zip</Filename>
+<Filename>aicp_ether_o-13.1-mordiford-20181205_055659.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
@@ -243,7 +243,7 @@
 </pme>
 
 <bacon>
-<Filename>aicp_bacon_o-13.1-mordiford-20181107_063714.zip</Filename>
+<Filename>aicp_bacon_o-13.1-mordiford-20181205_034137.zip</Filename>
 <RomUrl
     id="rom"
     title="ROM"
