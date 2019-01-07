@@ -264,6 +264,10 @@
     id="readme"
     title="README"
     description="AICP/oreo - mordiford Wiki">https://wiki.maud.io/aicp/oreo</ReadmeUrl>
+<XdaUrl
+    id="xda"
+    title="Thread on xda"
+    description="[ROM][8.1][UNOFFICIAL] non-gsi AICP-mordiford [clover/Mi Pad 4] - xda-developers">https://forum.xda-developers.com/mi-pad-4/development/rom-gsi-aicp-mordiford-t3886214/post78595876#post78595876</XdaUrl>
 </clover>
 
 </Stable>
