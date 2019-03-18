@@ -29,4 +29,17 @@
             <firmware>https://sourceforge.net/projects/crdroid/files/cheeseburger/crdroid-p/firmware/firmware_9.0.4_oneplus5.zip/download</firmware>
         </cheeseburger>
     </manufacturer>
+
+    <!-- XIAOMI -->
+    <manufacturer id="Xiaomi">
+        <clover>
+            <maintainer>hota (lindwurm)</maintainer>
+            <devicename>Mi Pad 4</devicename>
+            <filename></filename>
+            <buildtype>OFFICIAL</buildtype>
+            <download>https://cloud.akane.blue/nextcloud/s/aw2tLrEjwzHkBoq?path=%2Fclover</download>
+            <gapps>https://opengapps.org/</gapps>
+            <recovery>https://forum.xda-developers.com/showpost.php?p=78945289&postcount=5</recovery>
+        </clover>
+    </manufacturer>
 </OTA>
