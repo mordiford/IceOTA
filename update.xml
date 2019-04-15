@@ -28,6 +28,16 @@
             <recovery>https://sourceforge.net/projects/crdroid/files/cheeseburger/crdroid-p/recovery/twrp-3.2.3-0-20181227-codeworkx-nocompatcheck-cheeseburger.img/download</recovery>
             <firmware>https://sourceforge.net/projects/crdroid/files/cheeseburger/crdroid-p/firmware/firmware_9.0.4_oneplus5.zip/download</firmware>
         </cheeseburger>
+         <enchilada>
+            <maintainer>hota (lindwurm)</maintainer>
+            <devicename>OnePlus 6</devicename>
+            <filename>Floko-v2.0-enchilada-20190415_111020-OFFICIAL.zip</filename>
+            <buildtype>Official</buildtype>
+            <download>https://cloud.akane.blue/nextcloud/s/getfloko?path=%2Fenchilada</download>
+            <gapps>https://opengapps.org/</gapps>
+            <recovery>https://github.com/engstk/android_device_oneplus_enchilada/releases</recovery>
+            <firmware>https://www.oneplus.com/support/softwareupgrade/details?code=8</firmware>
+        </enchilada>
     </manufacturer>
 
     <!-- XIAOMI -->
