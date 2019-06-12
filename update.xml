@@ -45,7 +45,7 @@
         <clover>
             <maintainer>hota (lindwurm)</maintainer>
             <devicename>Mi Pad 4</devicename>
-            <filename>Floko-v2.0-clover-20190416_014344-OFFICIAL.zip</filename>
+            <filename>Floko-v2.0-clover-20190610_024932-OFFICIAL.zip</filename>
             <buildtype>OFFICIAL</buildtype>
             <download>https://cloud.akane.blue/nextcloud/s/getfloko?path=%2Fclover</download>
             <gapps>https://opengapps.org/</gapps>
