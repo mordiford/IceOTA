@@ -16,41 +16,16 @@
 -->
 <OTA xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 
-    <!-- ONEPLUS -->
-    <manufacturer id="OnePlus">
-        <cheeseburger>
-            <maintainer>hota (lindwurm)</maintainer>
-            <devicename>Oneplus 5</devicename>
-            <filename></filename>
-            <buildtype>Official</buildtype>
-            <download>https://cloud.akane.blue/nextcloud/s/aw2tLrEjwzHkBoq?path=%2Fcheeseburger</download>
-            <gapps>https://opengapps.org/</gapps>
-            <recovery>https://sourceforge.net/projects/crdroid/files/cheeseburger/crdroid-p/recovery/twrp-3.2.3-0-20181227-codeworkx-nocompatcheck-cheeseburger.img/download</recovery>
-            <firmware>https://sourceforge.net/projects/crdroid/files/cheeseburger/crdroid-p/firmware/firmware_9.0.4_oneplus5.zip/download</firmware>
-        </cheeseburger>
-         <enchilada>
-            <maintainer>hota (lindwurm)</maintainer>
-            <devicename>OnePlus 6</devicename>
-            <filename>Floko-v2.0-enchilada-20190415_111020-OFFICIAL.zip</filename>
-            <buildtype>Official</buildtype>
-            <download>https://cloud.akane.blue/nextcloud/s/getfloko?path=%2Fenchilada</download>
-            <gapps>https://opengapps.org/</gapps>
-            <recovery>https://github.com/engstk/android_device_oneplus_enchilada/releases</recovery>
-            <firmware>https://www.oneplus.com/support/softwareupgrade/details?code=8</firmware>
-        </enchilada>
-    </manufacturer>
-
     <!-- XIAOMI -->
     <manufacturer id="Xiaomi">
         <clover>
-            <maintainer>hota (lindwurm)</maintainer>
-            <devicename>Mi Pad 4</devicename>
-            <filename>Floko-v2.0-clover-20190707_160503-OFFICIAL.zip</filename>
-            <buildtype>OFFICIAL</buildtype>
-            <download>https://cloud.akane.blue/nextcloud/s/getfloko?path=%2Fclover</download>
+            <maintainer>karin722</maintainer>
+            <devicename>Mi mix2</devicename>
+            <filename>Floko-v2.0-chiron-20190821-UNOFFICIAL.zip</filename>
+            <buildtype>UNOFFICIAL</buildtype>
+            <download>https://drive.google.com/drive/u/0/folders/1-AsTMi1X7fZq_xfn3X4hdtUQ30_EPuoJ</download>
             <gapps>https://opengapps.org/</gapps>
-            <recovery>https://mega.nz/#!KBtTmSoR!IjFmSllDIqJa_dyD-OgBQZpPzX9M8n7i7-lG4AsEGOg</recovery>
-            <forum>http://bit.ly/flokorom_clover</forum>
+            <forumhttps://forum.xda-developers.com/mi-mix-2/development/rom-flokorom-t3959324</forum>
         </clover>
     </manufacturer>
 </OTA>
