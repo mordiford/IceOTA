@@ -19,7 +19,7 @@
     <!-- XIAOMI -->
     <manufacturer id="Xiaomi">
         <clover>
-            <maintainer>karin722</maintainer>
+            <maintainer>karin722(unofficial)</maintainer>
             <devicename>Mi mix2</devicename>
             <filename>Floko-v2.0-chiron-20190821-UNOFFICIAL.zip</filename>
             <buildtype>UNOFFICIAL</buildtype>
