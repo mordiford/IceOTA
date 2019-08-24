@@ -18,7 +18,7 @@
 
     <!-- XIAOMI -->
     <manufacturer id="Xiaomi">
-        <clover>
+        <chiron>
             <maintainer>karin722(unofficial)</maintainer>
             <devicename>Mi mix2</devicename>
             <filename>Floko-v2.0-chiron-20190824-UNOFFICIAL.zip</filename>
@@ -26,6 +26,6 @@
             <download>https://drive.google.com/drive/u/0/folders/1-AsTMi1X7fZq_xfn3X4hdtUQ30_EPuoJ</download>
             <gapps>https://opengapps.org/</gapps>
             <forumhttps://forum.xda-developers.com/mi-mix-2/development/rom-flokorom-t3959324</forum>
-        </clover>
+        </chiron>
     </manufacturer>
 </OTA>
